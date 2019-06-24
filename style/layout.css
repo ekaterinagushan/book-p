@@ -21,7 +21,7 @@ nav {
   height: 68px;
   width: 1440px;
   justify-content: flex-start;
-  background-color: #FFD9DA;
+  background-color: #1960D3;
   margin-top: -100px;
 }
 
@@ -84,7 +84,7 @@ main {
   width: 508px;
   margin-top: 70px;
   line-height: 65px;
-  background-color: #FFD9DA;
+  background-color: #1960D3;
   text-align: center;
 }
 
@@ -129,7 +129,7 @@ main {
   width: 508px;
   margin-top: 70px;
   line-height: 65px;
-  background-color: #FFD9DA;
+  background-color: #1960D3;
   text-align: center;
 }
 
@@ -173,7 +173,7 @@ main {
   width: 508px;
   margin-top: 70px;
   line-height: 65px;
-  background-color: #FFD9DA;
+  background-color: #1960D3;
   text-align: center;
 }
 
@@ -204,8 +204,18 @@ main {
   width: 1440px;
 }
 
+.portfolio {
+  position: absolute;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "Century Gothic";
+  margin-left: 40px;
+  margin-top: -120px;
+  color: black;
+}
+
 footer {
-  background-color: #FFD9DA;
+  background-color: #1960D3;
   height: 150px;
   width: 1440px;
   display: flex;
@@ -400,6 +410,11 @@ footer .art {
 
     .photo-1 img {
       width: 768px;
+    }
+
+    .portfolio {
+      font-size: 20px;
+      margin-top: -70px;
     }
 
     footer {
