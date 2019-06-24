@@ -194,6 +194,7 @@ main {
 footer {
   background-color: #FFD9DA;
   height: 150px;
+  width: 1440px;
   display: flex;
   align-items: center;
   margin-top: -5px;
